@@ -7,6 +7,7 @@ public class DigitSum {
         System.out.println(sumDigits(34));
         System.out.println(sumDigits(-54));
 
+
     }
 
     // Method that tests for negative numbers and returns the sum of each digit in an integer.
